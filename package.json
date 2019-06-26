@@ -1,6 +1,6 @@
 {
   "name": "@dadajam4/plugboy",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "CLI for JavaScript plugin development using TypeScript, Babel, CSS preprocessor, etc.",
   "bin": {
     "plugboy": "lib/index.js"
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/dadajam4/plugboy#readme",
   "dependencies": {
-    "browserslist": "^4.4.2",
+    "browserslist": "^4.6.3",
     "chalk": "^2.0.0",
     "fs-extra": "^7.0.0",
     "json-diff": "^0.5.4",
